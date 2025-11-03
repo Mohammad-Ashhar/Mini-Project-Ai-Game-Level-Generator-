@@ -1,0 +1,6 @@
+Flask>=2.2
+flask-cors>=3.0
+numpy>=1.23
+tensorflow>=2.10,<3.0    # use tensorflow-cpu if you don't want GPU libs
+pymongo>=4.0
+requests>=2.28
