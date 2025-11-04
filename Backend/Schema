@@ -1,6 +1,0 @@
-CREATE TABLE IF NOT EXISTS levels (
-    id TEXT PRIMARY KEY,
-    difficulty TEXT,
-    size INTEGER,
-    level_json TEXT
-);
